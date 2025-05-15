@@ -1,4 +1,13 @@
 # SQL_Dannys_diner
+
+This is a challenge from [Summer of SQL](https://github.com/wjsutton/the_summer_of_sql) to help gain skills and confidence in SQL.
+
+Skills tested in this challenge:
+- Ranking
+- Common Table Expressions (CTEs)
+- Case Statements
+- Dates and Scalar functions
+
 Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business. (https://8weeksqlchallenge.com/case-study-1/)
 
 ## Problem Statement
